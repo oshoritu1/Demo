@@ -1,0 +1,21 @@
+GITHUB
+
+https://github.com/oshoritu1/Demo.git
+
+…or create a new repository on the command line
+echo "# Demo" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/oshoritu1/Demo.git
+git push -u origin main
+
+…or push an existing repository from the command line
+git remote add origin https://github.com/oshoritu1/Demo.git
+git branch -M main
+git push -u origin main
+
+GIT Token ID
+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
+
